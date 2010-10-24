@@ -1,0 +1,12 @@
+<!DOCTYPE piklab>
+<piklab>
+  <general>
+    <device>12F615</device>
+    <tool>gputils</tool>
+    <programmer>pickit2</programmer>
+    <files>
+      <item>ledcsik.asm</item>
+    </files>
+  </general>
+  <editors/>
+</piklab>
