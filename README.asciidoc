@@ -1,4 +1,6 @@
 LED Bar (Glider)
 =================
 
-If you just hang it on the wall and do your usual activity in the room, certainly you will link:working[see] http://en.wikipedia.org/wiki/Hacker_Emblem[gliders] appearing and disappearing at any time. Good tool to make you keep in mind that you are not less than a HACKER :)
+If you just hang it on the wall and do your usual activity in the room, certainly you will link:working.jpg[see gliders] appearing and disappearing at any time. Good tool to make you keep in mind that you are not less than a HACKER :)
+
+I got a green LED bar from a fax machine, I had to modify it a bit - had to short circuit the SMD resistors and make separate wiring for 5x8 LEDs. Then I built a link:built_on_breadboard.jpg controller circuit around it. It gets power from an ordinary laptop adaptor. This device has become a beloved part of our http://hspbp.org[hackerspace], but since it is build upon a breadboard, sooner or later somebody will disassembly this great equipment. That's why the documentation is important and I am documenting this for the public - with hope that somewhere and sometime somebody will make this idea alive again.
