@@ -7,30 +7,6 @@ copyright (c) 2010, R. S. Doiel, all rights reserved
 
 Licensed under "The BSD License" described at http://opensource.org/licenses/bsd-license.php
 
-== NAME
-
-nshtools - a node module to aimed to make it easier to write shell scripts
-
-
-== SYNOPSIS
-
-link:http://nodejs.org[node] provides an excellent platform for building network applications using non-blocking I/O. It is a powerful tool for doing system chores.  Nshtools attempts to build some general purpose high level modules (e.g. file management) on top of Node's excellent system modules.
-
-nshtools features:
-
-* support for common file operations like copy, move
-* the work queue design pattern with prompts and tasks
-* simple short/long option command line parsing
-* common data structure primitives like stacks and queues
-* simple, extensible mime type detection from file extensions
-* simple finder module for operating on directories trees
-
-
-Checkout some of the examples/ directory or read nshtools.asciidoc.
-
-
-
-
 LED Bar (Glider)
 ================
 If you just hang it on the wall and do your usual activity in the room, certainly you will working[see] http://en.wikipedia.org/wiki/Hacker_Emblem[gliders] appearing and disappearing at any time. Good tool to make you keep in mind that you are not less than a HACKER :)
